@@ -1,0 +1,12 @@
+---
+:id: 10734956
+:submitters:
+- :name: John Francis Sullivan
+  :email: jfsullivan1@my.uri.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2018-10-30 03:15:33.384236000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2018-10-29 20:15:33.384236000 Z
+:status: processed
+:score: 115.0
